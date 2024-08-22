@@ -1,0 +1,8 @@
+/opt/libraries/local/include/metis.h
+/opt/libraries/local/lib/libmetis.a
+/opt/libraries/local/bin/gpmetis
+/opt/libraries/local/bin/ndmetis
+/opt/libraries/local/bin/mpmetis
+/opt/libraries/local/bin/m2gmetis
+/opt/libraries/local/bin/graphchk
+/opt/libraries/local/bin/cmpfillin
